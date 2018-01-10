@@ -1,0 +1,4 @@
+Hela Gacek 4,5,2,3,4
+Ada Kij 2,3,1,5,6
+Tom Jones 5,5,5,4,6
+John Ohh 4,4,4,5,1
